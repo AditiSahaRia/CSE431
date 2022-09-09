@@ -1,8 +1,7 @@
 Unlisted youtube video:
 https://youtu.be/VpXof8GrA3M
 
-Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/Conference/Recent
-
+Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/ICCIT2022/Submission/Details/13
 
 Paper title:
 Interpreting Movie Reviews from Public Comments
